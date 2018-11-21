@@ -1,0 +1,7 @@
+.hello{
+    font-size: 14px;
+    .whatup{
+        height:100px;
+        width:percentage($number: 7/3);
+    }
+}
